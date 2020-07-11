@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="huoa_idea:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84eaf974-7d65-487e-88bd-a63b14c26e22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/pages/include/jQuary.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\maven\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Java/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$MAVEN_HOME -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1czHdbZwONF40MgbTYUcOKb8eID" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="bigdataide_conn_settings" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.25.jar" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hu.dao.impl" />
+      <recent name="com.hu.spider" />
+      <recent name="com.hu.util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hu.service" />
+      <recent name="com.hu.dao" />
+      <recent name="com.hu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codeWriting\huoa_idea\web\WEB-INF\lib" />
+      <recent name="D:\codeWriting\huoa_idea\web\pages\include" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codeWriting\huoa_idea\web\plugins\chart.js" />
+      <recent name="D:\codeWriting\huoa_idea\web\music" />
+      <recent name="D:\codeWriting\huoa_idea\web\WEB-INF\lib" />
+      <recent name="D:\codeWriting\huoa_idea\web\pages\personal" />
+      <recent name="D:\codeWriting\huoa_idea\web\pages\expense" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hu.dao.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.huoa">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hu.test.Demo" />
+      <module name="huoa_idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseDaoImplTest.findByAuditorId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huoa_idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.music.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hu.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hu.dao.impl.ExpenseDaoImplTest" />
+      <option name="METHOD_NAME" value="findByAuditorId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseDaoImplTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huoa_idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.music.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hu.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hu.dao.impl.ExpenseDaoImplTest" />
+      <option name="METHOD_NAME" value="findById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseDaoImplTest.findExp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huoa_idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.music.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hu.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.hu.dao.impl.ExpenseDaoImplTest" />
+      <option name="METHOD_NAME" value="findExp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="echarts.min.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/web/plugins/chart.js/echarts.min.js" working-dir="$PROJECT_DIR$/web/plugins/chart.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="huoa" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="huoa_idea:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/huoa" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_31_huoa_idea" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64199" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="huoa_idea:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="JUnit.ExpenseDaoImplTest.findExp" />
+      <item itemvalue="JUnit.ExpenseDaoImplTest.findByAuditorId" />
+      <item itemvalue="JUnit.ExpenseDaoImplTest.findById" />
+      <item itemvalue="Node.js.echarts.min.js" />
+      <item itemvalue="Tomcat Server.huoa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExpenseDaoImplTest.findById" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.ExpenseDaoImplTest.findByAuditorId" />
+        <item itemvalue="JUnit.ExpenseDaoImplTest.findExp" />
+        <item itemvalue="Node.js.echarts.min.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84eaf974-7d65-487e-88bd-a63b14c26e22" name="Default Changelist" comment="" />
+      <created>1591524589942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591524589942</updated>
+      <workItem from="1591524592842" duration="20735000" />
+      <workItem from="1591688749864" duration="4385000" />
+      <workItem from="1591693708666" duration="10809000" />
+      <workItem from="1591744697966" duration="13799000" />
+      <workItem from="1591783770609" duration="16396000" />
+      <workItem from="1591834986589" duration="11237000" />
+      <workItem from="1591859129989" duration="46130000" />
+      <workItem from="1592009636322" duration="5715000" />
+      <workItem from="1592045093612" duration="53323000" />
+      <workItem from="1592216529824" duration="15969000" />
+      <workItem from="1592378665033" duration="28514000" />
+      <workItem from="1592474943843" duration="30616000" />
+      <workItem from="1592628826738" duration="671000" />
+      <workItem from="1592713531072" duration="2104000" />
+      <workItem from="1592717805932" duration="18990000" />
+      <workItem from="1592840963446" duration="610000" />
+      <workItem from="1592904163853" duration="6191000" />
+      <workItem from="1592962939097" duration="8124000" />
+      <workItem from="1593041830007" duration="10077000" />
+      <workItem from="1593218538918" duration="1750000" />
+      <workItem from="1593915831404" duration="1717000" />
+      <workItem from="1594264188627" duration="19709000" />
+      <workItem from="1594380012797" duration="27179000" />
+      <workItem from="1594476114106" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="78" y="0" key="#Project_Structure" timestamp="1592904775067">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="78" y="0" key="#Project_Structure/0.0.1376.774@0.0.1376.774" timestamp="1592904775067" />
+    <state x="11" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592904550166">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="11" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1376.774@0.0.1376.774" timestamp="1592904550166" />
+    <state x="707" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1594267820357">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="707" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1376.774@0.0.1376.774" timestamp="1594267820357" />
+    <state x="446" y="112" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594277675006">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="446" y="112" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1376.774@0.0.1376.774" timestamp="1594277675006" />
+    <state x="446" y="506" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594461929063">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="446" y="506" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1376.774@0.0.1376.774" timestamp="1594461929063" />
+    <state x="665" y="268" width="473" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591689378859">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="665" y="268" width="473" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1376.774@0.0.1376.774" timestamp="1591689378859" />
+    <state x="834" y="354" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591525387686">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="834" y="354" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1376.774@0.0.1376.774" timestamp="1591525387686" />
+    <state x="14" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594281467085">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="14" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1376.774@0.0.1376.774" timestamp="1594281467085" />
+    <state x="372" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594464265316">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="372" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1376.774@0.0.1376.774" timestamp="1594464265316" />
+    <state x="564" y="125" key="#echarts.min.js" timestamp="1594285716018">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="564" y="125" key="#echarts.min.js/0.0.1376.774@0.0.1376.774" timestamp="1594285716018" />
+    <state x="397" y="195" width="856" height="574" key="DiffContextDialog" timestamp="1592904775426">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="397" y="195" width="856" height="574" key="DiffContextDialog/0.0.1376.774@0.0.1376.774" timestamp="1592904775426" />
+    <state x="294" y="128" key="FileChooserDialogImpl" timestamp="1594476218247">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="294" y="128" key="FileChooserDialogImpl/0.0.1376.774@0.0.1376.774" timestamp="1594476218247" />
+    <state x="534" y="241" width="671" height="366" key="Github.ShareDialog" timestamp="1594476690750">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="534" y="241" width="671" height="366" key="Github.ShareDialog/0.0.1376.774@0.0.1376.774" timestamp="1594476690750" />
+    <state width="1318" height="242" key="GridCell.Tab.0.bottom" timestamp="1594464575955">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1318" height="242" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1594464575955" />
+    <state width="1318" height="242" key="GridCell.Tab.0.center" timestamp="1594464575954">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1318" height="242" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1594464575954" />
+    <state width="1318" height="242" key="GridCell.Tab.0.left" timestamp="1594464575954">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1318" height="242" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1594464575954" />
+    <state width="1318" height="242" key="GridCell.Tab.0.right" timestamp="1594464575954">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1318" height="242" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1594464575954" />
+    <state width="1128" height="213" key="GridCell.Tab.1.bottom" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.1.bottom/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state width="1128" height="213" key="GridCell.Tab.1.center" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.1.center/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state width="1128" height="213" key="GridCell.Tab.1.left" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.1.left/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state width="1128" height="213" key="GridCell.Tab.1.right" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.1.right/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state width="1128" height="213" key="GridCell.Tab.2.bottom" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.2.bottom/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state width="1128" height="213" key="GridCell.Tab.2.center" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.2.center/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state width="1128" height="213" key="GridCell.Tab.2.left" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.2.left/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state width="1128" height="213" key="GridCell.Tab.2.right" timestamp="1594464575952">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state width="1128" height="213" key="GridCell.Tab.2.right/0.0.1376.774@0.0.1376.774" timestamp="1594464575952" />
+    <state x="23" y="38" key="SettingsEditor" timestamp="1594285837146">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="23" y="38" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1594285837146" />
+    <state x="602" y="271" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592380738174">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="602" y="271" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1376.774@0.0.1376.774" timestamp="1592380738174" />
+    <state x="0" y="65" key="com.intellij.javaee.view.ServerArtifactsDialog" timestamp="1593076025332">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="0" y="65" key="com.intellij.javaee.view.ServerArtifactsDialog/0.0.1376.774@0.0.1376.774" timestamp="1593076025332" />
+    <state x="673" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594440763949">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="673" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1376.774@0.0.1376.774" timestamp="1594440763949" />
+    <state x="630" y="120" key="extract.method.dialog" timestamp="1592126697884">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="630" y="120" key="extract.method.dialog/0.0.1376.774@0.0.1376.774" timestamp="1592126697884" />
+    <state x="0" y="0" width="595" height="774" key="find.popup" timestamp="1592135147135">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="0" y="0" width="595" height="774" key="find.popup/0.0.1376.774@0.0.1376.774" timestamp="1592135147135" />
+    <state x="88" y="37" width="1237" height="620" key="new project wizard" timestamp="1594459176275">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="88" y="37" width="1237" height="620" key="new project wizard/0.0.1376.774@0.0.1376.774" timestamp="1594459176275" />
+    <state x="509" y="188" key="run.anything.popup" timestamp="1594434729045">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="509" y="188" key="run.anything.popup/0.0.1376.774@0.0.1376.774" timestamp="1594434729045" />
+    <state x="527" y="95" width="672" height="678" key="search.everywhere.popup" timestamp="1591886871798">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="527" y="95" width="672" height="678" key="search.everywhere.popup/0.0.1376.774@0.0.1376.774" timestamp="1591886871798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/pages/expense/expenseMe.jsp</url>
+          <line>121</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

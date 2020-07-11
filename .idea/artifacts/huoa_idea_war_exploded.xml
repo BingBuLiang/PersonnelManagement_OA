@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="huoa_idea:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/huoa_idea_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="huoa_idea/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="huoa_idea" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

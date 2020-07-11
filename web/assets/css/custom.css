@@ -1,0 +1,163 @@
+.layout-builder {
+    position: fixed;
+    width: 300px;
+    background: white;
+    z-index: 1000;
+    right: -300px;
+    top: 0;
+    bottom: 0;
+    box-shadow: 8px 0 10px 3px rgba(0, 0, 0, 0.50);
+    overflow: auto;
+    transition: right .2s;
+}
+
+.layout-builder.show {
+    right: 0;
+}
+
+.layout-builder .layout-builder-toggle.shw i {
+    -webkit-animation: spin 2s linear infinite;
+    -moz-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@-moz-keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.layout-builder .layout-builder-toggle.hdn {
+    display: none;
+}
+
+.layout-builder.show .layout-builder-toggle.hdn {
+    display: flex;
+}
+
+.layout-builder .layout-builder-toggle {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    color: white;
+    background: black;
+    position: fixed;
+    top: 50%;
+    margin-left: -50px;
+    display: flex;
+    font-size: 23px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25px;
+}
+
+.layout-builder .layout-builder-body {
+    padding: 30px;
+}
+
+.layout-builder .layout-builder-body .custom-radio {
+    width: 46.6%;
+    float: left;
+    height: 50px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.layout-builder .layout-builder-body .custom-radio.active {
+    border: 3px solid white;
+    box-shadow: 0px 0px 0px 1px black;
+}
+
+.layout-builder .layout-builder-body .custom-radio:hover {
+    opacity: .9;
+}
+
+.layout-builder .layout-builder-body .custom-radio:nth-child(even) {
+    margin-right: 0;
+}
+
+.layout-builder .layout-builder-body .custom-radio:nth-child(1) {
+    background: #2e61bf; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2e61bf, #60c363); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2e61bf, #60c363);
+}
+
+.layout-builder .layout-builder-body .custom-radio:nth-child(2) {
+    background: #4568dc; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4568dc, #b06ab3); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4568dc, #b06ab3);
+}
+
+.layout-builder .layout-builder-body .custom-radio:nth-child(3) {
+    background: #bf74b7; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #bf74b7, #80b0d8); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #bf74b7, #80b0d8);
+}
+
+.layout-builder .layout-builder-body .custom-radio:nth-child(4) {
+    background: #5397ce; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5397ce, #dca937); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5397ce, #dca937);
+}
+
+.layout-builder .layout-builder-body .custom-radio label {
+    display: none;
+}
+
+.layout-builder .layout-builder-body .custom-control input[type="checkbox"]:checked + label {
+    color: black;
+}
+
+.layout-builder .layout-colors {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10px;
+}
+
+.layout-builder .layout-colors .layout-color-item {
+    width: 40px;
+    height: 40px;
+    background: red;
+    margin: 10px;
+    border-radius: 3px;
+    overflow: hidden;
+    border: 5px solid transparent;
+    cursor: pointer;
+}
+
+.layout-builder .layout-colors .layout-color-item.active {
+    box-shadow: 0px 0px 0px 1px black
+}
+
+.layout-builder .layout-colors .layout-color-item span {
+    display: block;
+    height: 45%;
+}
+
+.layout-builder .layout-colors .layout-color-item span:first-child {
+    background: black;
+    transform: rotate(15deg);
+    width: 110%;
+    height: 70%;
+    margin-top: -5px;
+}
+
+.layout-alert {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px 10px;
+}

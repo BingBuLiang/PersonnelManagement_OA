@@ -237,7 +237,7 @@
                   </div>
                   <div class="card-body">
                     <label>费用：</label>
-
+                    <sapn>${expItem.amount}</sapn>
                     <br>
                     <label>描述：</label>
                     <sapn>${expItem.itemDesc}</sapn>

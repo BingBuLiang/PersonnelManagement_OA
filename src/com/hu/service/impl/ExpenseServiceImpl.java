@@ -185,7 +185,8 @@ public class ExpenseServiceImpl implements ExpenseService {
                 e1.printStackTrace();
                 throw new MyException(e1.toString());
             }
-            throw new MyException(e.toString());//向上一层抛出异常信息
+            //向上一层抛出异常信息
+            throw new MyException(e.toString());
 
         }finally{
             JdbcUtil.closeAll(conn, null,null );

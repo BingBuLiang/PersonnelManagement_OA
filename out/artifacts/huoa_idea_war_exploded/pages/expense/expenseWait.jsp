@@ -17,7 +17,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>报销管理~我的报销</title>
+  <title>报销管理~待审报销</title>
   <base href="<%=basePath%>">
   <jsp:include page="/pages/include/link.jsp"/>
 
@@ -35,12 +35,13 @@
         <div class="container-fluid">
           <div class="row mb-2">
             <div class="col-sm-6">
-              <h1>我的报销</h1>
+              <h1>待审报销</h1>
+              <span style="color: red">${error}</span>
             </div>
             <div class="col-sm-6">
               <ol class="breadcrumb float-sm-right">
                 <li class="breadcrumb-item"><a href="#">报销管理</a></li>
-                <li class="breadcrumb-item active">我的报销</li>
+                <li class="breadcrumb-item active">待审报销</li>
               </ol>
             </div>
           </div>
@@ -236,7 +237,7 @@
                   </div>
                   <div class="card-body">
                     <label>费用：</label>
-
+                    <sapn>${expItem.amount}</sapn>
                     <br>
                     <label>描述：</label>
                     <sapn>${expItem.itemDesc}</sapn>

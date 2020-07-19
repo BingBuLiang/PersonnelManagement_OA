@@ -286,7 +286,7 @@ public class ExpenseServlet extends BaseServlet {
     public void audit(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         //获取审核表单的值
-        System.out.println("进入审核");
+         // System.out.println("进入审核");
         //expId:expId,result:result,auditDesc:auditDesc
         int expId = Integer.parseInt(request.getParameter("expId"));
         String result = request.getParameter("result");

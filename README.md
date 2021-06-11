@@ -5,7 +5,7 @@
 本项目有使用SSM（spring+SpringMVC+Mybatis）版本的，联系付费，即可获得</br>
 视频预览，一个朋友帮我做的，[地址](https://www.bilibili.com/video/BV1MK4y1x7sv)
 
-</br>索引目录安装在web/pages目录下
+</br>索引目录存放在web/pages目录下，如：
 #### administration 人事管理
 添加部门  addDepa.jsp </br>
 部门管理  depaList.jsp</br>

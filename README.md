@@ -1,7 +1,7 @@
 # 人事管理系统
 ## 环境搭配
 ### idea、mysql8.0.X、tomcat9.0.31
-本项目有使用SSM（spring+SpringMVC+Mybatis）版本的，联系即可获得
+本项目有使用SSM（spring+SpringMVC+Mybatis）版本的，联系即可获得</br>
 视频预览，一个朋友帮我做的，[地址](https://www.bilibili.com/video/BV1MK4y1x7sv)
 
 </br>索引目录安装在web/pages目录下
